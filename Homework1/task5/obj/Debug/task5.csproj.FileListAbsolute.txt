@@ -1,0 +1,5 @@
+C:\Users\Ivan\Desktop\Soft-Intellect\Homework\Homework1\task5\bin\Debug\task5.exe.config
+C:\Users\Ivan\Desktop\Soft-Intellect\Homework\Homework1\task5\bin\Debug\task5.exe
+C:\Users\Ivan\Desktop\Soft-Intellect\Homework\Homework1\task5\bin\Debug\task5.pdb
+C:\Users\Ivan\Desktop\Soft-Intellect\Homework\Homework1\task5\obj\Debug\task5.exe
+C:\Users\Ivan\Desktop\Soft-Intellect\Homework\Homework1\task5\obj\Debug\task5.pdb
