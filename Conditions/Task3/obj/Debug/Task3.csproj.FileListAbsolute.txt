@@ -1,0 +1,6 @@
+C:\Users\Ivan\Desktop\Soft-Intellect\Conditions\Task3\bin\Debug\Task3.exe.config
+C:\Users\Ivan\Desktop\Soft-Intellect\Conditions\Task3\bin\Debug\Task3.exe
+C:\Users\Ivan\Desktop\Soft-Intellect\Conditions\Task3\bin\Debug\Task3.pdb
+C:\Users\Ivan\Desktop\Soft-Intellect\Conditions\Task3\obj\Debug\Task3.exe
+C:\Users\Ivan\Desktop\Soft-Intellect\Conditions\Task3\obj\Debug\Task3.pdb
+C:\Users\Ivan\Desktop\Soft-Intellect\Conditions\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache
