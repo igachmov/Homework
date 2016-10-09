@@ -1,1 +1,6 @@
 C:\Users\Ivan\Desktop\Soft-Intellect\Loops-Homework\Task8\bin\Debug\Task8.exe.config
+C:\Users\Ivan\Desktop\Soft-Intellect\Loops-Homework\Task8\bin\Debug\Task8.exe
+C:\Users\Ivan\Desktop\Soft-Intellect\Loops-Homework\Task8\bin\Debug\Task8.pdb
+C:\Users\Ivan\Desktop\Soft-Intellect\Loops-Homework\Task8\obj\Debug\Task8.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Soft-Intellect\Loops-Homework\Task8\obj\Debug\Task8.exe
+C:\Users\Ivan\Desktop\Soft-Intellect\Loops-Homework\Task8\obj\Debug\Task8.pdb
