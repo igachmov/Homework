@@ -1,0 +1,6 @@
+C:\Users\Ivan\Desktop\Soft-Intellect\Loops-Homework\Loops-Homework\bin\Debug\Loops-Homework.exe.config
+C:\Users\Ivan\Desktop\Soft-Intellect\Loops-Homework\Loops-Homework\bin\Debug\Loops-Homework.exe
+C:\Users\Ivan\Desktop\Soft-Intellect\Loops-Homework\Loops-Homework\bin\Debug\Loops-Homework.pdb
+C:\Users\Ivan\Desktop\Soft-Intellect\Loops-Homework\Loops-Homework\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Soft-Intellect\Loops-Homework\Loops-Homework\obj\Debug\Loops-Homework.exe
+C:\Users\Ivan\Desktop\Soft-Intellect\Loops-Homework\Loops-Homework\obj\Debug\Loops-Homework.pdb

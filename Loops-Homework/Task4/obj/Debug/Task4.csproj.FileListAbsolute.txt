@@ -1,0 +1,5 @@
+C:\Users\Ivan\Desktop\Soft-Intellect\Loops-Homework\Task4\bin\Debug\Task4.exe.config
+C:\Users\Ivan\Desktop\Soft-Intellect\Loops-Homework\Task4\bin\Debug\Task4.exe
+C:\Users\Ivan\Desktop\Soft-Intellect\Loops-Homework\Task4\bin\Debug\Task4.pdb
+C:\Users\Ivan\Desktop\Soft-Intellect\Loops-Homework\Task4\obj\Debug\Task4.exe
+C:\Users\Ivan\Desktop\Soft-Intellect\Loops-Homework\Task4\obj\Debug\Task4.pdb
