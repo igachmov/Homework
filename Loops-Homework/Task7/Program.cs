@@ -29,11 +29,19 @@ namespace Task7
             //First Version
             Console.Write("Enter N!: ");
             int N = int.Parse(Console.ReadLine());
+            
             ForLoop(N);
             Console.Write("Enter K!: ");
             int K = int.Parse(Console.ReadLine());
             ForLoop(K);
-            Console.WriteLine("N!/K!= " + (ForLoop(N) / ForLoop(K)));
+            if (N > K && N > 1 && K > 1)
+            {
+                Console.WriteLine("N!/K!= " + (ForLoop(N) / ForLoop(K)));
+            }
+            else
+            {
+                Console.WriteLine("ERROR");
+            }
 
             //Second Version
 
@@ -57,7 +65,14 @@ namespace Task7
             //}
             //Console.WriteLine(result1);
 
-            //Console.WriteLine("N!/K!= " + (result/result1));
+            //   if (N > K && N > 1 && K > 1)
+            //{
+            //    Console.WriteLine("N!/K!= " + (ForLoop(N) / ForLoop(K)));
+            //}
+            //else
+            //{
+            //    Console.WriteLine("ERROR");
+            //}
 
 
 
