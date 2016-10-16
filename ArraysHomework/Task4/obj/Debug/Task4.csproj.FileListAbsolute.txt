@@ -1,0 +1,6 @@
+C:\Users\Ivan\Desktop\Soft-Intellect\ArraysHomework\Task4\bin\Debug\Task4.exe.config
+C:\Users\Ivan\Desktop\Soft-Intellect\ArraysHomework\Task4\bin\Debug\Task4.exe
+C:\Users\Ivan\Desktop\Soft-Intellect\ArraysHomework\Task4\bin\Debug\Task4.pdb
+C:\Users\Ivan\Desktop\Soft-Intellect\ArraysHomework\Task4\obj\Debug\Task4.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Soft-Intellect\ArraysHomework\Task4\obj\Debug\Task4.exe
+C:\Users\Ivan\Desktop\Soft-Intellect\ArraysHomework\Task4\obj\Debug\Task4.pdb

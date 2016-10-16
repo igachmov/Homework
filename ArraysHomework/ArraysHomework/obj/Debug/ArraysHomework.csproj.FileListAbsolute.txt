@@ -1,0 +1,6 @@
+C:\Users\Ivan\Desktop\Soft-Intellect\ArraysHomework\ArraysHomework\bin\Debug\ArraysHomework.exe.config
+C:\Users\Ivan\Desktop\Soft-Intellect\ArraysHomework\ArraysHomework\bin\Debug\ArraysHomework.exe
+C:\Users\Ivan\Desktop\Soft-Intellect\ArraysHomework\ArraysHomework\bin\Debug\ArraysHomework.pdb
+C:\Users\Ivan\Desktop\Soft-Intellect\ArraysHomework\ArraysHomework\obj\Debug\ArraysHomework.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Soft-Intellect\ArraysHomework\ArraysHomework\obj\Debug\ArraysHomework.exe
+C:\Users\Ivan\Desktop\Soft-Intellect\ArraysHomework\ArraysHomework\obj\Debug\ArraysHomework.pdb
