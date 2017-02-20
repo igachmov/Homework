@@ -3,3 +3,6 @@ c:\users\ivan\documents\visual studio 2015\Projects\ArraysHomework2\ArraysHomewo
 c:\users\ivan\documents\visual studio 2015\Projects\ArraysHomework2\ArraysHomework2\bin\Debug\ArraysHomework2.pdb
 c:\users\ivan\documents\visual studio 2015\Projects\ArraysHomework2\ArraysHomework2\obj\Debug\ArraysHomework2.exe
 c:\users\ivan\documents\visual studio 2015\Projects\ArraysHomework2\ArraysHomework2\obj\Debug\ArraysHomework2.pdb
+C:\Users\Ivan\Desktop\Soft-Intellect\Homework\ArraysHomework2\ArraysHomework2\bin\Debug\ArraysHomework2.exe.config
+C:\Users\Ivan\Desktop\Soft-Intellect\Homework\ArraysHomework2\ArraysHomework2\obj\Debug\ArraysHomework2.exe
+C:\Users\Ivan\Desktop\Soft-Intellect\Homework\ArraysHomework2\ArraysHomework2\obj\Debug\ArraysHomework2.pdb

@@ -4,3 +4,9 @@ c:\users\ivan\documents\visual studio 2015\Projects\ArraysHomework2\Task6\bin\De
 c:\users\ivan\documents\visual studio 2015\Projects\ArraysHomework2\Task6\bin\Debug\Task6.pdb
 c:\users\ivan\documents\visual studio 2015\Projects\ArraysHomework2\Task6\obj\Debug\Task6.exe
 c:\users\ivan\documents\visual studio 2015\Projects\ArraysHomework2\Task6\obj\Debug\Task6.pdb
+C:\Users\Ivan\Desktop\Soft-Intellect\Homework\ArraysHomework2\Task6\bin\Debug\Task6.exe.config
+C:\Users\Ivan\Desktop\Soft-Intellect\Homework\ArraysHomework2\Task6\obj\Debug\Task6.exe
+C:\Users\Ivan\Desktop\Soft-Intellect\Homework\ArraysHomework2\Task6\obj\Debug\Task6.pdb
+C:\Users\Ivan\Desktop\Soft-Intellect\Homework\ArraysHomework2\Task6\bin\Debug\Task6.exe
+C:\Users\Ivan\Desktop\Soft-Intellect\Homework\ArraysHomework2\Task6\bin\Debug\Task6.pdb
+C:\Users\Ivan\Desktop\Soft-Intellect\Homework\ArraysHomework2\Task6\obj\Debug\Task6.csprojResolveAssemblyReference.cache
